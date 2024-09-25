@@ -211,12 +211,12 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://telegra.ph/file/039af07c725ba814a6d48.jpg",
+    "https://files.catbox.moe/nk4ljm.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/p2zzab.jpg",
+    "https://files.catbox.moe/nk4ljm.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -226,17 +226,17 @@ PLAYLIST_IMG_URL = getenv(
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://files.catbox.moe/5l1vtn.jpg",
+    "https://files.catbox.moe/cj51hz.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://files.catbox.moe/5ls954.jpg",
+    "https://files.catbox.moe/24of8x.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/qNO.jpg",
+    "https://files.catbox.moe/0hp0vs.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
