@@ -52,7 +52,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/Gokukhan1/Xeno-kakarot-Extra",
+    "https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -108,7 +108,7 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/mlohvdryj"
+    "SUPPORT_CHANNEL", "https://t.me/waifexanime"
 )  # Example:- https://t.me/VIP_CREATORS
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/Crunchyrol_Anime_In_Hindi_India"
